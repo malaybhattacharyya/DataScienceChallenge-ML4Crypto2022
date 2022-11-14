@@ -6,4 +6,4 @@ The sources of the data are summaries of news articles, which are taken from a b
 
 The data is segregated into two parts - training and testing. The training data comprises 80,000 ciphertexts. The training data includes the labels. The test data comprises 20,000 ciphertexts without any labels. The labels of the test data are to be predicted.
 
-The performance metric for the multi-classification on the test data will be F1-score.
+The performance metric for the multi-classification on the test data will be the average classwise F1-score (see here: https://www.baeldung.com/cs/multi-class-f1-score).
