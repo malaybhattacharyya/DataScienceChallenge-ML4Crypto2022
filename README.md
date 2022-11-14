@@ -6,4 +6,4 @@ A large set of plaintexts is taken from a benchmark dataset. These plaintexts ar
 
 The dataset is segregated into two parts - training and test. The training dataset comprises 80,000 ciphertexts. The training dataset includes the labels. The test dataset comprises 20,000 ciphertexts without any labels. The labels of the test dataset are to be predicted. The submitted trained models will be applied on the test dataset by the organizers.
 
-The performance metric for the multi-classification on the test data will be the accuracy score.
+The performance metric for the multi-class classification on the test dataset will be the accuracy score.
