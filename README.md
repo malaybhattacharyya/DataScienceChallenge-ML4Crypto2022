@@ -1,6 +1,6 @@
 # Data Science Challenge @ Interdisciplinary Workshop on Machine Learning for Cryptology (ML4Crypto 2022)
 
-This Data Science Challenge is a part of an interdisciplinary workshop on "Machine Learning for Cryptology" (ML4Crypto 2022) to be held at December 15-16, 2022 at Indian Statistical Institute, Kolkata. The webpage for the workshop is: https://www.isical.ac.in/~caiml/ml4crypto2022
+This Data Science Challenge is a part of an interdisciplinary workshop on "Machine Learning for Cryptology" (ML4Crypto 2022) to be held during December 15-16, 2022 at Indian Statistical Institute, Kolkata. The webpage for the workshop is: https://www.isical.ac.in/~caiml/ml4crypto2022
 
 The said Data Science Challenge is about performing distinguishing attack on some popular symmetric-key block based ciphers with machine learning. The challenge deals with a relatively easier version of the problem. The distinguishing attack is posed as a multi-class classification (supervised learning) problem. The participants are welcome to employ any sort of classification approach, be it classical machine learning, deep learning, or others.
 
